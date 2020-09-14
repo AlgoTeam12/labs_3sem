@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-void busort(float *arr, int size);
+void busort(float *arr, int size);//some comment
 
 
 int main()
